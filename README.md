@@ -31,7 +31,7 @@ Sistema de gestión de productos construido con NestJS, TypeORM y PostgreSQL. AP
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/TU_USUARIO/products-system.git
+git clone https://github.com/dedaFSdeveloper/Sistema-de-Gesti-n-de-Productos.git
 cd products-system
 ```
 
@@ -195,8 +195,8 @@ Las contribuciones son bienvenidas. Por favor:
 
 
 Ezequiel Molinari
-- GitHub: [@tu_usuario](https://github.com/tu_usuario)
-- LinkedIn: [Tu Perfil](https://linkedin.com/in/tu-perfil)
+- GitHub: [@dedaFSdeveloper](https://github.com/dedaFSdeveloper)
+- LinkedIn: [Ezequiel Molinari](https://www.linkedin.com/in/ezmolinari12/)
 
 ---
 
